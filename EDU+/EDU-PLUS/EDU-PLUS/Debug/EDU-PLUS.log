@@ -1,0 +1,12 @@
+﻿  EDU.cpp
+c:\users\utkar\onedrive\desktop\edu+\edu-plus\edu-plus\edu.cpp(114): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\utkar\onedrive\desktop\edu+\edu-plus\edu-plus\edu.cpp(187): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\utkar\onedrive\desktop\edu+\edu-plus\edu-plus\edu.cpp(200): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\utkar\onedrive\desktop\edu+\edu-plus\edu-plus\edu.cpp(210): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\utkar\onedrive\desktop\edu+\edu-plus\edu-plus\edu.cpp(228): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\utkar\onedrive\desktop\edu+\edu-plus\edu-plus\edu.cpp(241): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\utkar\onedrive\desktop\edu+\edu-plus\edu-plus\edu.cpp(245): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\utkar\onedrive\desktop\edu+\edu-plus\edu-plus\edu.cpp(249): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\utkar\onedrive\desktop\edu+\edu-plus\edu-plus\edu.cpp(254): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\utkar\onedrive\desktop\edu+\edu-plus\edu-plus\edu.cpp(280): warning C4129: 'E': unrecognized character escape sequence
+  EDU-PLUS.vcxproj -> C:\Users\utkar\OneDrive\Desktop\EDU+\EDU-PLUS\Debug\EDU-PLUS.exe
